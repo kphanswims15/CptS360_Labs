@@ -1,0 +1,29 @@
+Raw Form: 
+ 0 0  1  1  0  0x7  1  18  19  18  702  
+ 
+0  0  1  20  0x83  1  18  39  720  720  
+ 
+0  0  1  40  0x82  1  18  49  1440  360  
+ 
+0  0  1  50  0x5  1  18  79  1800  1080  
+ 
+Start End Size
+18  719  702  
+ 
+720  1439  720  
+ 
+1440  1799  360  
+ 
+1800  2879  1080  
+ 
+Ext Partition 4 : Start Sector = 1800 
+LOCAL MBR start_sector = 1800  ext partition start_sector = 18 
+1818  2159  342  
+ 
+LOCAL MBR start_sector = 2160  ext partition start_sector = 18 
+2178  2519  342  
+ 
+LOCAL MBR start_sector = 2520  ext partition start_sector = 18 
+2538  2879  342  
+ 
+
